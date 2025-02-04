@@ -3,7 +3,7 @@
 # Hi there, I'm Geethanadh 👋
 
 🚀 **Python Developer | AI & Data Enthusiast | IoT Engineer**
-
+[![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ### About Me
 - 🔭 Currently working at **Nala Robotics** on **AGV project**
 - 🏗️ Expertise in **Python, Linux**
