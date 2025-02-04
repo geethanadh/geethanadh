@@ -1,16 +1,42 @@
-## Hi there 👋
+![Header](https://your-banner-image-url.com)
 
-<!--
-**geethanadh/geethanadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+🚀 **Python Developer | AI & Data Enthusiast | Robotics Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Currently working at **Nala Robotics** on **MOCO AGV project**
+- 🏗️ Expertise in **Python, Sensor Fusion, Path Following, Obstacle Avoidance**
+- ⚡ Passionate about **AI, Robotics, and Automation**
+- 🎯 Preparing for **Japanese N5 Certification**
+- 📚 Exploring **Asyncio, Multithreading, and Performance Optimization**
+- 🎥 Planning to start a **YouTube channel** to document my learning journey
+
+---
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jetson ORIN](https://img.shields.io/badge/Jetson-ORIN-green?style=for-the-badge)
+
+---
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+### 📌 Featured Projects
+
+- 🚘 **MOCO AGV Project** – *AGV using Nvidia Jetson ORIN, SICK TIM 240 LiDAR, and advanced path-planning algorithms*
+- 🤖 **Warehouse Automation** – *Automated systems for optimizing warehouse operations*
+
+📂 Check out my [Repositories](https://github.com/your-github-username?tab=repositories) for more projects!
+
+---
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+---
+_⭐️ Don't forget to star my repositories if you find them useful!_
