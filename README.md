@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://your-banner-image-url.com" alt="Header">
 
-   <h1 style="font-family: 'Fira Code', monospace;">
+  <h1 style="font-family: 'Fira Code', monospace;">
     Hi there, I'm Geethanadh <span class="wave">👋</span>
   </h1>
 
