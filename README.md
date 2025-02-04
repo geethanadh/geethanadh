@@ -35,7 +35,7 @@
 
 <div align="center">
 
-📂 Check out my [Repositories](https://github.com/your-github-username?tab=repositories) for more projects!
+📂 Check out my [Repositories](https://github.com/geethanadh?tab=repositories) for more projects!
 
 </div>
 
