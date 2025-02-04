@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://your-banner-image-url.com" alt="Header"><br>  
+  
+  <img width="1834" alt="banner" src="https://github.com/user-attachments/assets/54dcbbba-01b9-41c6-bcf3-c5e01af9b110" /><br>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=F75B86&center=true&vCenter=true&repeat=false&width=435&lines=Geethanadh" alt="Typing SVG" /></a></a><br>
+  <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=F75B86&center=true&vCenter=true&repeat=false&width=435&lines=Geethanadh" alt="Typing SVG" /></a></a><br> -->
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Data+Enthusiast;IoT+Engineer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   
