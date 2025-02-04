@@ -1,4 +1,24 @@
 <div align="center">
+  <img src="https://your-banner-image-url.com" alt="Header">
+
+   <h1 style="font-family: 'Fira Code', monospace;">
+    Hi there, I'm Geethanadh <span class="wave">👋</span>
+  </h1>
+
+  <style>
+    @keyframes wave-animation {
+      0% { transform: rotate(0deg); }
+      20% { transform: rotate(20deg); }
+      40% { transform: rotate(-10deg); }
+      60% { transform: rotate(10deg); }
+      80% { transform: rotate(-5deg); }
+      100% { transform: rotate(0deg); }
+    }
+    .wave {
+      display: inline-block;
+      animation: wave-animation 1.5s infinite;
+    }
+  </style>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Data+Enthusiast;IoT+Engineer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   
