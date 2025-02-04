@@ -28,7 +28,9 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=geethanadh&show_icons=true&theme=radical)
+<!-- ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethanadh&layout=compact&theme=radical) -->
+
 
 </div>
 
