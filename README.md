@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://your-banner-image-url.com" alt="Header">
-
-  # Hi there, I'm Geethanadh 👋
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Data+Enthusiast;IoT+Engineer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   
