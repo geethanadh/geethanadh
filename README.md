@@ -3,27 +3,14 @@
 
   # Hi there, I'm Geethanadh 👋
 
-  <h2>
-    <span style="font-weight: bold; font-size: 24px;">
-      <span class="animated-text">🚀 Python Developer | AI & Data Enthusiast | IoT Engineer</span>
-    </span>
-  </h2>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Data+Enthusiast;IoT+Engineer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   
-  <style>
-    @keyframes colorChange {
-      0% { color: #ff0000; }
-      25% { color: #00ff00; }
-      50% { color: #0000ff; }
-      75% { color: #ffff00; }
-      100% { color: #ff0000; }
-    }
-    .animated-text {
-      animation: colorChange 3s infinite;
-    }
-  </style>
-
   [![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
+
+---
+
+<div align="center">
 
 ### About Me
 
