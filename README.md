@@ -1,13 +1,13 @@
 ![Header](https://your-banner-image-url.com)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Geethanadh 👋
 
-🚀 **Python Developer | AI & Data Enthusiast | Robotics Engineer**
+🚀 **Python Developer | AI & Data Enthusiast | IoT Engineer**
 
 ### About Me
-- 🔭 Currently working at **Nala Robotics** on **MOCO AGV project**
-- 🏗️ Expertise in **Python, Sensor Fusion, Path Following, Obstacle Avoidance**
-- ⚡ Passionate about **AI, Robotics, and Automation**
+- 🔭 Currently working at **Nala Robotics** on **AGV project**
+- 🏗️ Expertise in **Python, Linux**
+- ⚡ Passionate about **AI, Automation**
 - 🎯 Preparing for **Japanese N5 Certification**
 - 📚 Exploring **Asyncio, Multithreading, and Performance Optimization**
 - 🎥 Planning to start a **YouTube channel** to document my learning journey
@@ -28,15 +28,15 @@
 ---
 ### 📌 Featured Projects
 
-- 🚘 **MOCO AGV Project** – *AGV using Nvidia Jetson ORIN, SICK TIM 240 LiDAR, and advanced path-planning algorithms*
+- 🚘 **AGV Project** – *AGV using Nvidia Jetson ORIN, and advanced path-planning algorithms*
 - 🤖 **Warehouse Automation** – *Automated systems for optimizing warehouse operations*
 
 📂 Check out my [Repositories](https://github.com/your-github-username?tab=repositories) for more projects!
 
 ---
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/geethanadh-kasimkota-6222b4169)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:geethanadhk@example.com)
 
 ---
 _⭐️ Don't forget to star my repositories if you find them useful!_
