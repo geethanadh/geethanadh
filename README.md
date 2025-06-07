@@ -6,9 +6,9 @@
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Data+Enthusiast;IoT+Engineer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   
-  <!-- ![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&exclude_days=Sun%2CMon&card_width=500) -->
-  [![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&hide_border=true)](https://git.io/streak-stats)
-</div>
+  ![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&exclude_days=Sun%2CSat&card_width=500)
+  <!--[![GitHub Streak](https://github-readme-streak-stats-rho-seven-64.vercel.app?user=geethanadh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+</div>  -->
 
 ---
 
